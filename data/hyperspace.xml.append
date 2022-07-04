@@ -1041,6 +1041,7 @@
 		</mod-append:race>
 
 		<!--////////////////////////PROTOGEN ZONE (DANGER: FURRIES AHEAD)//////////////////////-->
+		<!--                                                                                   -->
 		<!--///////PROTOGEN////////-->
 
 		<mod-append:race name="protogen">
@@ -2072,6 +2073,7 @@
 						<illuminant />
 						<tori />
 						<technician />
+                                                <!-- get furried -->
 					</whiteList>
 				</statBoost>
 				<statBoost name="repairSpeed">
